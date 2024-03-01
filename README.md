@@ -1,4 +1,4 @@
-# Stock Market Real Time Data Project
+# Real Time Stock Market Data Project
 
 In this project, real time data streaming is simulated using python to understand how data is sent from producer to consumer. The purpose of this project is to understand working of kafka and try hands on exercises.
 
@@ -19,7 +19,8 @@ Here are the steps that I followed:
 - Kafka
 - AWS S3, GLUE, ATHENA
 
-##Techniques
+## Techniques
+
 Data Cleaning, Kafka Concepts, ETL
 
 ![Producer](/images/producer.png)
